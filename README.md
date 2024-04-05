@@ -1,2 +1,5 @@
 # QW2024-708380-Zero-Downtime-Migration-of-Qlik-Sense
 Discover the steps involved in a Qlik Sense migration with zero downtime and seamless transition.
+
+
+This presentation unveils a compelling case study detailing the successful zero downtime migration of Qlik Sense to Amazon Web Services (AWS). The project's core involved the meticulous duplication of the existing Qlik Sense environment, encompassing data, configurations, and applications, followed by a seamless installation on new AWS servers. The migration strategy was intricately designed to ensure uninterrupted access to critical business insights while capitalizing on the scalability, reliability, and cost-effectiveness inherent in AWS infrastructure.  The primary objective was to migrate Qlik Sense to AWS seamlessly, avoiding disruptions to ongoing business operations and guaranteeing continuous access to analytical insights. The presentation navigates through the detailed process of duplicating the entire Qlik Sense environment, highlighting the replication of data, configurations, and applications to establish a mirror image on AWS.
