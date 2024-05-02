@@ -6,19 +6,25 @@ This repository contains information and resources pertaining to the zero downti
 
 ## :mega: Presentation Highlights
 
-- :dart: **Case Study**: This presentation delves into a compelling case study showcasing the successful migration of Qlik Sense to AWS with zero downtime.
+#### :dart: **Case Study** 
+This presentation delves into a compelling case study showcasing the successful migration of Qlik Sense to AWS with zero downtime.
   
-- :gear: **Migration Strategy**: Learn about the meticulously designed migration strategy that includes duplicating the existing Qlik Sense environment, encompassing data, configurations, and applications.
+#### :gear: **Migration Strategy** 
+Learn about the meticulously designed migration strategy that includes duplicating the existing Qlik Sense environment, encompassing data, configurations, and applications.
 
-- :computer: **AWS Installation**: Understand the process of seamlessly installing Qlik Sense on new AWS servers while maintaining data integrity and application functionality.
+#### :computer: **AWS Installation** 
+Understand the process of seamlessly installing Qlik Sense on new AWS servers while maintaining data integrity and application functionality.
 
-- :dart: **Objective**: The primary objective of this migration was to ensure uninterrupted access to analytical insights while leveraging the scalability, reliability, and cost-effectiveness of AWS infrastructure.
+#### :dart: **Objective** 
+The primary objective of this migration was to ensure uninterrupted access to analytical insights while leveraging the scalability, reliability, and cost-effectiveness of AWS infrastructure.
 
 ## :file_folder: Contents
 
-- **Case Study Presentation**: Dive into the detailed presentation that navigates through the entire migration process, highlighting key steps and considerations.
+#### :black_nib: **Case Study Presentation**: 
+Dive into the detailed presentation that navigates through the entire migration process, highlighting key steps and considerations.
 
-- **Documentation**: Access supplementary documentation providing additional insights and resources related to the Qlik Sense migration.
+#### :page: **Documentation**: 
+Access supplementary documentation providing additional insights and resources related to the Qlik Sense migration.
 
 ## :hammer_and_wrench: How to Use This Repository
 
