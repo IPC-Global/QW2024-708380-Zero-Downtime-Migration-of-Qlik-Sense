@@ -1,4 +1,4 @@
-# QW2024-708380-Zero-Downtime-Migration-of-Qlik-Sense
+# :rocket: <span style="color:green;">QW2024-708380-Zero-Downtime-Migration-of-Qlik-Sense</span>
 
 ## Overview
 
@@ -34,6 +34,6 @@ Contributions to this repository are welcome. If you have additional insights, r
 
 This repository is provided for informational purposes only. While efforts have been made to ensure accuracy, the authors cannot guarantee the completeness or accuracy of the information provided. Users are encouraged to verify information and perform their own assessments before undertaking similar migration projects.
 
-## License
-
+## :page_with_curl: License
+:page_with_curl:
 This repository is licensed under the [MIT License](LICENSE).
