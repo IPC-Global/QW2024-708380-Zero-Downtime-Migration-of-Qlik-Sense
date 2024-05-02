@@ -6,13 +6,13 @@ This repository contains information and resources pertaining to the zero downti
 
 ## :mega: Presentation Highlights
 
-- **Case Study**: This presentation delves into a compelling case study showcasing the successful migration of Qlik Sense to AWS with zero downtime.
+- :dart: **Case Study**: This presentation delves into a compelling case study showcasing the successful migration of Qlik Sense to AWS with zero downtime.
   
-- **Migration Strategy**: Learn about the meticulously designed migration strategy that includes duplicating the existing Qlik Sense environment, encompassing data, configurations, and applications.
+- :gear: **Migration Strategy**: Learn about the meticulously designed migration strategy that includes duplicating the existing Qlik Sense environment, encompassing data, configurations, and applications.
 
-- **AWS Installation**: Understand the process of seamlessly installing Qlik Sense on new AWS servers while maintaining data integrity and application functionality.
+- :computer: **AWS Installation**: Understand the process of seamlessly installing Qlik Sense on new AWS servers while maintaining data integrity and application functionality.
 
-- **Objective**: The primary objective of this migration was to ensure uninterrupted access to analytical insights while leveraging the scalability, reliability, and cost-effectiveness of AWS infrastructure.
+- :dart: **Objective**: The primary objective of this migration was to ensure uninterrupted access to analytical insights while leveraging the scalability, reliability, and cost-effectiveness of AWS infrastructure.
 
 ## :file_folder: Contents
 
@@ -35,5 +35,5 @@ Contributions to this repository are welcome. If you have additional insights, r
 This repository is provided for informational purposes only. While efforts have been made to ensure accuracy, the authors cannot guarantee the completeness or accuracy of the information provided. Users are encouraged to verify information and perform their own assessments before undertaking similar migration projects.
 
 ## :page_with_curl: License
-:page_with_curl:
+
 This repository is licensed under the [MIT License](LICENSE).
