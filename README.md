@@ -1,5 +1,20 @@
 # :cloud: QW2024-708380-Zero-Downtime-Migration-of-Qlik-Sense
 
+## :newspaper: Stay Tuned
+
+More content will be coming soon! Stay tuned for updates and new information. We are constantly working to improve and expand the resources available in this repository.
+
+Make sure to check back regularly for the latest news and updates.
+
+## :mailbox: Contact
+
+For more information, please reach out to the presenters:
+
+- **Ana Silva**: [ana.silva@ipc-global.com](mailto:ana.silva@ipc-global.com)
+- **Hugo Andrade**: [hugo.andrade@ipc-global.com](mailto:hugo.andrade@ipc-global.com)
+
+We welcome your questions and feedback!
+
 ## :bulb: Overview
 
 This repository contains information and resources pertaining to the zero downtime migration of Qlik Sense to Amazon Web Services (AWS). The migration process outlined here aims to provide a seamless transition while ensuring uninterrupted access to critical business insights.
@@ -33,6 +48,8 @@ Contributions to this repository are welcome. If you have additional insights, r
 ## :warning: Disclaimer
 
 This repository is provided for informational purposes only. While efforts have been made to ensure accuracy, the authors cannot guarantee the completeness or accuracy of the information provided. Users are encouraged to verify information and perform their own assessments before undertaking similar migration projects.
+
+
 
 ## :page_with_curl: License
 
